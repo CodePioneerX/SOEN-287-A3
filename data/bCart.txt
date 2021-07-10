@@ -1,0 +1,9 @@
+12345AC
+Vanilla Ice Cream,4.99,5
+Honeycrisp Apple,1.05,7
+Bartlett Pear,0.88,2
+Strawberries,3,2
+Red Pepper,3.96,3
+Banana,0.33,1
+Cream of Mushroom Soup,3.29,1
+Celery,3.69,1

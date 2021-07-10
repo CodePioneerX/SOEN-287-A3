@@ -1,0 +1,7 @@
+Milk;8;4
+Bagel;4;7
+Shredded Mozzarella Cheese Bag;5.99;8
+All Purpose Flour;8.29;4
+Honeycrips Apple;1.05;1
+Vanilla Ice Cream;4.99;8
+Blueberry Yogurt Pack;$7.49;
